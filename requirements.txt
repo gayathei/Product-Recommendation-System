@@ -1,0 +1,1 @@
+streamlit\nxgboost\nscikit-learn\npandas\nnumpy\n
